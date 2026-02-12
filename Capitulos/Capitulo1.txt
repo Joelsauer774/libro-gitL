@@ -1,1 +1,1 @@
-Git es un sistema de control de versiones ideado por WINDOWS
+Git es un sistema de control de versiones ideado por WINDOWS Y TAMBIEN LINUX
